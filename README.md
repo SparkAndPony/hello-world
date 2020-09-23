@@ -1,2 +1,6 @@
 # hello-world
-This is a depository for me to learn.
+
+My name is Michelle.
+
+I am a graphic designer and I am new to Github. 
+I am made of sparkles and spaghetti.
